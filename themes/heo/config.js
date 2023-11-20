@@ -5,7 +5,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '嘿 朋友 我们好久不见', url: 'https://blog.jk2077.com' }
+    { title: '嘿！朋友 我们好久不见！', url: 'https://blog.jk2077.com' }
   ],
 
   // 英雄区(首页顶部大卡)

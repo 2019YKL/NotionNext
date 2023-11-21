@@ -12,8 +12,8 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '分享快乐',
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'jk2077.com',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: '每搭一个博客都想Slogan 还挺烦的',
+  HEO_HERO_TITLE_4: '又是一年新主题',
+  HEO_HERO_TITLE_5: '认识世界 了解自己',
   HEO_HERO_TITLE_LINK: 'https://blog.jk2077.com',
 
   // 英雄区显示三个置顶分类
@@ -29,7 +29,7 @@ const CONFIG = {
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
     '你好！我是',
-    '🔍 分享与热心帮助',
+    '🔍 干饭吃肉小能手',
     '🤝 专修交互与设计',
     '🏃 脚踏实地行动派',
     '🏠 智能家居小能手',
